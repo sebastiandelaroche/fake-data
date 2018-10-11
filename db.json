@@ -1,52 +1,16 @@
 {
     "posts": [
         {
-            "company": "Compañía",
-            "position": "Puesto",
-            "level": [],
-            "laboral_regimen": [],
-            "username": "millan",
-            "colective_pact": "",
-            "date": "2018/09/04",
-            "increase_salary": 1000,
-            "range": "",
-            "percentage": 70
+            "id": 1,
+            "title": "Post 1"
         },
         {
-            "company": "Compañía",
-            "position": "Puesto",
-            "level": [],
-            "laboral_regimen": [],
-            "username": "millan",
-            "colective_pact": "",
-            "date": "2018/09/04",
-            "increase_salary": 1000,
-            "range": "",
-            "percentage": 70
+            "id": 2,
+            "title": "Post 2"
         },
         {
-            "company": "Compañía",
-            "position": "Puesto",
-            "level": [],
-            "laboral_regimen": [],
-            "username": "millan",
-            "colective_pact": "",
-            "date": "2018/09/04",
-            "increase_salary": 1000,
-            "range": "",
-            "percentage": 70
-        },
-        {
-            "company": "Compañía",
-            "position": "Puesto",
-            "level": [],
-            "laboral_regimen": [],
-            "username": "millan",
-            "colective_pact": "",
-            "date": "2018/09/04",
-            "increase_salary": 1000,
-            "range": "",
-            "percentage": 70
+            "id": 3,
+            "title": "Post 3"
         }
     ],
     "comments": [

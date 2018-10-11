@@ -1,50 +1,67 @@
-[
-    {
-        "company": "Compañía",
-        "position": "Puesto",
-        "level": [],
-        "laboral_regimen": [],
-        "username": "millan",
-        "colective_pact": "",
-        "date": "2018/09/04",
-        "increase_salary": 1000,
-        "range": "",
-        "percentage": 70
-    },
-    {
-        "company": "Compañía",
-        "position": "Puesto",
-        "level": [],
-        "laboral_regimen": [],
-        "username": "millan",
-        "colective_pact": "",
-        "date": "2018/09/04",
-        "increase_salary": 1000,
-        "range": "",
-        "percentage": 70
-    },
-    {
-        "company": "Compañía",
-        "position": "Puesto",
-        "level": [],
-        "laboral_regimen": [],
-        "username": "millan",
-        "colective_pact": "",
-        "date": "2018/09/04",
-        "increase_salary": 1000,
-        "range": "",
-        "percentage": 70
-    },
-    {
-        "company": "Compañía",
-        "position": "Puesto",
-        "level": [],
-        "laboral_regimen": [],
-        "username": "millan",
-        "colective_pact": "",
-        "date": "2018/09/04",
-        "increase_salary": 1000,
-        "range": "",
-        "percentage": 70
+{
+    "posts": [
+        {
+            "company": "Compañía",
+            "position": "Puesto",
+            "level": [],
+            "laboral_regimen": [],
+            "username": "millan",
+            "colective_pact": "",
+            "date": "2018/09/04",
+            "increase_salary": 1000,
+            "range": "",
+            "percentage": 70
+        },
+        {
+            "company": "Compañía",
+            "position": "Puesto",
+            "level": [],
+            "laboral_regimen": [],
+            "username": "millan",
+            "colective_pact": "",
+            "date": "2018/09/04",
+            "increase_salary": 1000,
+            "range": "",
+            "percentage": 70
+        },
+        {
+            "company": "Compañía",
+            "position": "Puesto",
+            "level": [],
+            "laboral_regimen": [],
+            "username": "millan",
+            "colective_pact": "",
+            "date": "2018/09/04",
+            "increase_salary": 1000,
+            "range": "",
+            "percentage": 70
+        },
+        {
+            "company": "Compañía",
+            "position": "Puesto",
+            "level": [],
+            "laboral_regimen": [],
+            "username": "millan",
+            "colective_pact": "",
+            "date": "2018/09/04",
+            "increase_salary": 1000,
+            "range": "",
+            "percentage": 70
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "body": "some comment",
+            "postId": 1
+        },
+        {
+            "id": 2,
+            "body": "some comment",
+            "postId": 1
+        }
+    ],
+    "profile": {
+        "name": "typicode"
     }
-]
+}

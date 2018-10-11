@@ -1,3 +1,50 @@
-{
-    "name": "Exito SAS"
-}
+[
+    {
+        "company": "Compañía",
+        "position": "Puesto",
+        "level": [],
+        "laboral_regimen": [],
+        "username": "millan",
+        "colective_pact": "",
+        "date": "2018/09/04",
+        "increase_salary": 1000,
+        "range": "",
+        "percentage": 70
+    },
+    {
+        "company": "Compañía",
+        "position": "Puesto",
+        "level": [],
+        "laboral_regimen": [],
+        "username": "millan",
+        "colective_pact": "",
+        "date": "2018/09/04",
+        "increase_salary": 1000,
+        "range": "",
+        "percentage": 70
+    },
+    {
+        "company": "Compañía",
+        "position": "Puesto",
+        "level": [],
+        "laboral_regimen": [],
+        "username": "millan",
+        "colective_pact": "",
+        "date": "2018/09/04",
+        "increase_salary": 1000,
+        "range": "",
+        "percentage": 70
+    },
+    {
+        "company": "Compañía",
+        "position": "Puesto",
+        "level": [],
+        "laboral_regimen": [],
+        "username": "millan",
+        "colective_pact": "",
+        "date": "2018/09/04",
+        "increase_salary": 1000,
+        "range": "",
+        "percentage": 70
+    }
+]
